@@ -1,0 +1,27 @@
+div#can{
+	outline: 1px dashed green;
+	width: 970px;
+	min-height: 800px;
+	margin: 0 auto;
+	background-color: #000;
+}
+div#top-box{
+	min-height: 100px;
+	width: 100%;
+}
+div#main-box{
+
+}
+div#main-pg-btm{
+
+}
+.title{
+	background-color: #FEC622;
+	color: #222;
+}
+body {
+
+}
+div {
+	outline: 1px dashed #fff;
+}
